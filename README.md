@@ -5,7 +5,7 @@
 
 A Gaussian HMM implemented from scratch in NumPy (Viterbi + Baum-Welch)
 that recognises four activities (standing, walking, jumping, still)
-from smartphone accelerometer and gyroscope data.
+from smartphone accelerometer and gyroscope data
 
 ## Results
 Accuracy on 2 unseen test sessions: 93.8% (64 windows).
