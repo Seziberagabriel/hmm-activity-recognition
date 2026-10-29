@@ -1,0 +1,5 @@
+start,end,label
+3,11,walking
+13,21,jumping
+23,31,standing
+35,43,still
