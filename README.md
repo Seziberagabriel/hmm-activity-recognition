@@ -21,7 +21,6 @@ Accuracy on 2 unseen test sessions: 93.8% (64 windows).
   Sensor Logger, ~99.4 Hz)
 - `data/test/`: two unseen continuous sessions with label files
 - `hmm_activity_recognition.ipynb`: feature extraction, HMM, evaluation
-- `report/`: the project report (PDF)
 - `scripts/convert_sensorlogger.py`: converts Sensor Logger exports to the CSV format used here
 - `figures/`: plots used in the report
 
