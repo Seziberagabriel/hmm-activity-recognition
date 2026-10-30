@@ -11,10 +11,10 @@ from smartphone accelerometer and gyroscope data
 Accuracy on 2 unseen test sessions: 93.8% (64 windows).
 
 ## Videos (data collection)
-- Standing: https://youtube.com/shorts/PtVSDYFBxFA?feature=share 
-- Walking: https://youtube.com/shorts/qPvTbWGZxHw?feature=share
-- Jumping: https://youtube.com/shorts/hSvd6fbdRxs?feature=share
-- Still: https://youtube.com/shorts/1X4D8x570bg?feature=share
+- Standing: https://youtube.com/shorts/bWs7e355IRA?si=bp6l2l6_ILUUdO3N 
+- Walking: https://youtube.com/shorts/LVlvyvSqQ68?si=hGQQ5hofgmKCwEuR
+- Jumping: https://youtube.com/shorts/ABJUtjdIHaQ?si=j9N_RQaY79EPhAlP
+- Still: https://youtube.com/shorts/ID47XmfWIRY?si=KypBWbRG1UT6vA_w 
   
 ## Repository contents
 - `data/train/<activity>/`: 15 labelled CSV recordings per activity (iPhone 11,
